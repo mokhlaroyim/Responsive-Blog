@@ -1,0 +1,10 @@
+@media screen and (max-width: 1025px){
+    .two-column-wrapper{
+        grid-template-columns: 1fr;
+    }
+}
+@media screen and (max-width: 570px){
+    .portfolio-items-wrapper{
+        grid-template-columns: 1fr;
+    }
+}
